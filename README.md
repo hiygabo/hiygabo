@@ -3,7 +3,7 @@
 
 Student from informatic carrer on the **UMSA**
 Full Stack Developer Jr
-- 📫 **Contactme:** gaboandiaalave@gmail.com
+- 📫 **Contact me:** gaboandiaalave@gmail.com
 - **Phone:** +591 76510419
 
 ---
