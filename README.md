@@ -1,7 +1,7 @@
 #  Gabriel Omar Andia Alave 
-### Developer Backend Java & Full Stack Junior
+### Java Backend Developer & Full Stack Junior
 
-Student from informatic carrer on the **UMSA**
+Informatics Student at **UMSA**
 Full Stack Developer Jr
 - 📫 **Contact me:** gaboandiaalave@gmail.com
 - **Phone:** +591 76510419
