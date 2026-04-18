@@ -1,16 +1,16 @@
 #  Gabriel Omar Andia Alave 
-### Desarrollador Backend Java & Full Stack Junior
+### Developer Backend Java & Full Stack Junior
 
-Estudiante de la carrera de informática de la **UMSA**
+Student from informatic carrer on the **UMSA**
 Full Stack Developer Jr
-- 📫 **Contáctame:** gaboandiaalave@gmail.com
-- **telefono:** +591 76510419
+- 📫 **Contactme:** gaboandiaalave@gmail.com
+- **Phone:** +591 76510419
 
 ---
 
 ### 🛠 Tech Stack
 
-**Lenguajes & Backend**
+**Languages and Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -29,6 +29,6 @@ Full Stack Developer Jr
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 My Statistics
 
-![Estadísticas de Gabriel](https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&theme=dracula&hide_border=true)
+![Gabriel's Statistics](https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&theme=dracula&hide_border=true)
