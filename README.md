@@ -29,4 +29,4 @@ Full Stack Developer
 
 ### 📊 My Statistics
 
-![Gabriel's Statistics](https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&theme=dracula&hide_border=true)
+![Gabriel's Statistics](https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&theme=dracula&hide_border=true&v=1)
