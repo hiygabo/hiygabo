@@ -2,6 +2,7 @@
 ### Full Stack Developer 
 
 Full Stack Developer 
+La Paz, Bolivia 🇧🇴
 - 📫 **Contact me:** gaboandiaalave@gmail.com
 - **Phone:** +591 62184573
 
