@@ -12,7 +12,7 @@
     La Paz, Bolivia
   </p>
 
-  <br>
+  <br><br>
 
   <a href="mailto:gaboandiaalave@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/6B7280" height="32" alt="Email"/>
