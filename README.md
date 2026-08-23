@@ -21,6 +21,7 @@
   <a href="https://wa.me/59162184573">
     <img src="https://cdn.simpleicons.org/whatsapp/6B7280" height="32" alt="WhatsApp"/>
   </a>
+  <br>
   <sub>
     <code>gaboandiaalave@gmail.com</code>
     &nbsp;•&nbsp;
