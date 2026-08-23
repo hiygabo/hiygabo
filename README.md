@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats-git-main-anurag90s.vercel.app/api?username=hiygabo&show_icons=true)
+  <img src="https://github-readme-stats-git-main-anurag90s.vercel.app/api?username=hiygabo&show_icons=true" alt="GitHub Stats" />
 
   <br><br>
 
