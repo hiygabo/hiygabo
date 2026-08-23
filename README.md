@@ -84,7 +84,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-git-main-anurag90s.vercel.app/api?username=hiygabo&show_icons=true" alt="GitHub Stats" />
+  <img src="https://ghchart.rls.dev/hiygabo" alt="GitHub Chart" />
 
   <br><br>
 
