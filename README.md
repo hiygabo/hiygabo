@@ -84,7 +84,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF&icon_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiygabo&show_icons=true&hide_border=true&bg_color=00000000&title_color=9CA3AF&text_color=9CA3AF&icon_color=FFFFFF&cache_seconds=0)
 
   <br><br>
 
