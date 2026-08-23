@@ -21,9 +21,6 @@
   <a href="https://wa.me/59162184573">
     <img src="https://cdn.simpleicons.org/whatsapp/6B7280" height="32" alt="WhatsApp"/>
   </a>
-
-  <br><br>
-
   <sub>
     <code>gaboandiaalave@gmail.com</code>
     &nbsp;•&nbsp;
@@ -47,12 +44,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="45" alt="Django" title="Django" />
 
-  <br><br>
+  <br>
 
   <h3>Frontend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React" title="React" />
 
-  <br><br>
+  <br>
 
   <h3>Database & Spatial</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
@@ -65,7 +62,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server" />
 
-  <br><br>
+  <br>
 
   <h3>DevOps & Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
@@ -74,7 +71,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <hr>
 
