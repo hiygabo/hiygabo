@@ -6,11 +6,11 @@
   <p>La Paz, Bolivia</p>
   <br>
   <a href="mailto:gaboandiaalave@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/6B7280" height="32" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/6B7280" height="45" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/59162184573">
-    <img src="https://cdn.simpleicons.org/whatsapp/6B7280" height="32" alt="WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/6B7280" height="45" alt="WhatsApp"/>
   </a>
   <br>
   <sub>
