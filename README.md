@@ -29,9 +29,9 @@
   <h3>Backend</h3>
   <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="45" alt="NestJS" title="NestJS" />
       <br>
-      <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Java</span>
+      <span style="color: #6B7280; font-size: 14px; font-weight: 500;">NestJS</span>
     </div>
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
