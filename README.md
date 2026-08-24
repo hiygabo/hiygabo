@@ -84,7 +84,6 @@
 
 <div align="center">
 
-  <img src="https://ghchart.rls.dev/hiygabo" alt="GitHub Chart" />
 
   <br><br>
 
