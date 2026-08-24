@@ -27,18 +27,18 @@
 <br>
 <div align="center">
   <h3>Backend</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
-    <div style="text-align: center;">
+  <div style="display: inline-block; white-space: nowrap;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="45" alt="NestJS" title="NestJS" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">NestJS</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Spring Boot</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="45" alt="Django" title="Django" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Django</span>
@@ -46,8 +46,8 @@
   </div>
 
   <br><h3>Frontend</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
-    <div style="text-align: center;">
+  <div style="display: inline-block; white-space: nowrap;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React" title="React" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">React</span>
@@ -55,23 +55,23 @@
   </div>
 
   <br><h3>Database & Spatial</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
-    <div style="text-align: center;">
+  <div style="display: inline-block; white-space: nowrap;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">MySQL</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">PostgreSQL & PostGIS</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="45" alt="Oracle" title="Oracle" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Oracle</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">SQL Server</span>
@@ -79,13 +79,13 @@
   </div>
 
   <br><h3>DevOps & Tools</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
-    <div style="text-align: center;">
+  <div style="display: inline-block; white-space: nowrap;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Git</span>
     </div>
-    <div style="text-align: center;">
+    <div style="display: inline-block; text-align: center; margin: 0 30px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
       <br>
       <span style="color: #6B7280; font-size: 14px; font-weight: 500;">Docker</span>
