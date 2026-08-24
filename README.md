@@ -57,7 +57,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Postgis.png" height="45" alt="PostGIS" title="PostGIS" />
+  <span style="font-size: 45px;">🗺️</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="45" alt="Oracle" title="Oracle" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
