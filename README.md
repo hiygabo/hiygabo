@@ -77,6 +77,7 @@
 <hr>
 
 <br>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiygabo&hide_border=true&background=00000000&ring=9CA3AF&fire=FFFFFF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
