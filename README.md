@@ -27,7 +27,7 @@
 <br>
 <div align="center">
   <h3>Backend</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
       <br>
@@ -46,7 +46,7 @@
   </div>
 
   <br><h3>Frontend</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React" title="React" />
       <br>
@@ -55,7 +55,7 @@
   </div>
 
   <br><h3>Database & Spatial</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
       <br>
@@ -79,7 +79,7 @@
   </div>
 
   <br><h3>DevOps & Tools</h3>
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
       <br>
