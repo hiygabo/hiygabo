@@ -80,6 +80,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker" /><br>
         <sub><b>Docker</b></sub>
       </td>
+      <td align="center" width="140">
+        <img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n" /><br>
+        <sub><b>n8n</b></sub>
+      </td>
     </tr>
   </table>
 </div>
