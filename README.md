@@ -2,15 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=140&section=header" width="100%" alt="Header" />
   <br>
   <h1><strong>GABRIEL OMAR ANDIA ALAVE</strong></h1>
-  <h2><strong>Full Stack Developer</strong></h2>
   <p>La Paz, Bolivia</p>
-  <br>
-  <a href="mailto:gaboandiaalave@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/6B7280" height="45" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <br>
+ 
   <sub>
     <code>gaboandiaalave@gmail.com</code> &nbsp;•&nbsp;
   </sub>
