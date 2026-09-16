@@ -3,10 +3,6 @@
   <br>
   <h1><strong>GABRIEL OMAR ANDIA ALAVE</strong></h1>
   <p>La Paz, Bolivia</p>
- 
-  <sub>
-    <code>gaboandiaalave@gmail.com</code> &nbsp;•&nbsp;
-  </sub>
 </div>
 
 <br>
